@@ -2,7 +2,7 @@
   "name": "react-practice-2",
   "version": "0.1.0",
   "description": "An express app used to communicate with the react app",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/GICMan/gci-2019-react-practice-2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
   },
   "devDependencies": {}
 }
