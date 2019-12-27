@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": "P001",
+      "categoryId": "cty01",
+      "name": "Pine Apple",
+      "unit": "Kg",
+      "pricePerUnit": 1.2,
+      "stocks": 10
+    },
+    {
+      "id": "P002",
+      "categoryId": "cty01",
+      "name": "Banana",
+      "unit": "lb",
+      "pricePerUnit": 0.58,
+      "stocks": 30
+    },
+    {
+      "id": "P003",
+      "categoryId": "cty01",
+      "name": "Apple",
+      "unit": "lb",
+      "pricePerUnit": 0.82,
+      "stocks": 50
+    },
+    {
+      "id": "P004",
+      "categoryId": "cty01",
+      "name": "Strawberry",
+      "unit": "lb",
+      "pricePerUnit": 2.4,
+      "stocks": 70
+    },
+    {
+      "id": "P005",
+      "categoryId": "cty02",
+      "name": "Broccoli",
+      "unit": "lb",
+      "pricePerUnit": 1.8,
+      "stocks": 25
+    },
+    {
+      "id": "P006",
+      "categoryId": "cty02",
+      "name": "Asparagus",
+      "unit": "lb",
+      "pricePerUnit": 2,
+      "stocks": 10
+    },
+    {
+      "id": "P007",
+      "categoryId": "cty02",
+      "name": "Green Peas",
+      "unit": "oz",
+      "pricePerUnit": 0.75,
+      "stocks": 120
+    },
+    {
+      "id": "P008",
+      "categoryId": "cty03",
+      "name": "Beef",
+      "unit": "lb",
+      "pricePerUnit": 5.5,
+      "stocks": 20
+    },
+    {
+      "id": "P009",
+      "categoryId": "cty03",
+      "name": "Pork",
+      "unit": "lb",
+      "pricePerUnit": 3.75,
+      "stocks": 15
+    },
+    {
+      "id": "P010",
+      "categoryId": "cty03",
+      "name": "Chicken",
+      "unit": "lb",
+      "pricePerUnit": 2.1,
+      "stocks": 20
+    },
+    {
+      "id": "P011",
+      "categoryId": "cty04",
+      "name": "Milk",
+      "unit": "gal",
+      "pricePerUnit": 3.21,
+      "stocks": 10
+    },
+    {
+      "id": "P012",
+      "categoryId": "cty04",
+      "name": "Cheese",
+      "unit": "lb",
+      "pricePerUnit": 1.8,
+      "stocks": 5
+    }
+  ]
+}
